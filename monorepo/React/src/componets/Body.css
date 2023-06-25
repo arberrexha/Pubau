@@ -1,0 +1,53 @@
+.body {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .options-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .option-item {
+    margin-bottom: 10px;
+  }
+  
+  .option-button {
+    background-color: transparent;
+    color: rgb(24, 23, 23);
+    border: 2px solid gray;
+    padding: 10px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .option-button:hover {
+    background-color: grey;
+  }
+  
+  .selected-option {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .back-button {
+    background-color: #3f90b6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .back-button:hover {
+    background-color: #5ec0c0;
+  }
+  

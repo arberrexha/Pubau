@@ -1,0 +1,10 @@
+footer{
+    background-color: rgb(201, 196, 196);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    color:rgb(95, 133, 229)
+}
